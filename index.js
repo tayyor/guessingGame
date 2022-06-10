@@ -3,6 +3,7 @@
 const player = prompt("What's your name?");
 var guess;
 
+console.log(`                    `);
 
 // function to generate random number
 function randomNumber(min, max){
